@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage>
         child: flipView,
       ),
       floatingActionButton: FloatingActionButton(
-        child: Text("go"),
+        child: Text("go",style: TextStyle(fontSize: 25),),
         onPressed: () {
           flipView.animationForward();
         },
