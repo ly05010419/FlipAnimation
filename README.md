@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-![image](https://github.com/ly05010419/WWDC19/blob/master/screenshot.gif?raw=true)
+![image](https://github.com/ly05010419/Flip_Flutter/blob/master/screenshot.gif?raw=true)
